@@ -1,0 +1,11 @@
+{
+  "name": "bigcommerce-fixes",
+  "version": "1.0.0",
+  "description": "Small Node.js and Python scripts that detect and repair common BigCommerce store problems via the BigCommerce REST Management API.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
