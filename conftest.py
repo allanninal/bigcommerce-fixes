@@ -4,3 +4,5 @@ import os
 
 os.environ.setdefault("BIGCOMMERCE_STORE_HASH", "example_hash")
 os.environ.setdefault("BIGCOMMERCE_ACCESS_TOKEN", "bc_dummy")
+os.environ.setdefault("BIGCOMMERCE_STOREFRONT_TOKEN", "sf_dummy")
+os.environ.setdefault("BIGCOMMERCE_CLIENT_ID", "client_dummy")
